@@ -1,0 +1,21 @@
+body
+{
+    font-family: 'IM Fell English', serif;
+}
+h1
+{
+    font-size: 40px;
+    text-decoration:underline;
+}
+p
+{
+   font-size: 30px;
+}
+.draw_content
+{
+    text-align: center;
+}
+figure img
+{
+    width: 350px;
+}
